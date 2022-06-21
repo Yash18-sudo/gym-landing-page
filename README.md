@@ -30,5 +30,10 @@ Core Idea of Project is to build an sample prototype of Online Gym-Membership an
 ![image](https://user-images.githubusercontent.com/72195579/174746077-e581ba7b-fe1c-4a40-b8bb-2adf81a20d2a.png)
 ### Client's Section :
 ![image](https://user-images.githubusercontent.com/72195579/174746367-557675d4-ab5d-42a5-8cc7-98dc3c242946.png)
+### Gallery Section :
+![image](https://user-images.githubusercontent.com/72195579/174748415-2e34c762-0c12-48d9-a152-d93846a51051.png)
+### Contact Section :
+![Capture](https://user-images.githubusercontent.com/72195579/174748515-aac31530-2f01-4dd5-88fc-250e8a9cd5e0.JPG)
 
-# THANK YOU
+
+### -------------------------------------------------------THANK YOU--------------------------------------------------------
